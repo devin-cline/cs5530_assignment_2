@@ -1,9 +1,0 @@
-Install and load packages
-```{r}
-install.packages("dplyr")
-install.packages("skimr")
-install.packages("PerformanceAnalytics")
-library(dplyr)
-library(skimr)
-library(PerformanceAnalytics)
-```
